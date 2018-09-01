@@ -1,6 +1,6 @@
 {
   "name": "hotoke-bot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "Motomura Yohei <y.motomura0426@gmail.com>",
   "description": "A simple helpful robot for your Company",
@@ -20,6 +20,6 @@
     "hubot-slack": "^4.5.4"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "10.9.0"
   }
 }
