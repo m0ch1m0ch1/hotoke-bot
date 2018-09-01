@@ -19,6 +19,7 @@
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.5.4",
     "jquery": "^3.3.1",
+    "json": "^9.0.6",
     "require": "^2.4.20"
   },
   "engines": {
