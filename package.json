@@ -1,9 +1,9 @@
 {
   "name": "hotoke-bot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "author": "Motomura Yohei <y.motomura0426@gmail.com>",
-  "description": "A simple helpful robot for your Company",
+  "description": "A simple helpful robot for GEDATSU",
   "dependencies": {
     "hubot": "^3.1.1",
     "hubot-diagnostics": "^1.0.0",
