@@ -1,4 +1,4 @@
-# 美人時計表示スクリプト
+﻿# 美人時計表示スクリプト
 BASE_URL = 'http://www.bijint.com/assets/pict'
 PICT_EXT = 'jpg'
 
@@ -30,11 +30,11 @@ hhmmTime = (date) ->
   mm = ('0' + time.minutes).slice(-2)
   return hh + mm
 
-module.exports = (robot) ->
+#module.exports = (robot) ->
   # 以下の文字列があれば自動応答
-  robot.hear /(美人|bijin|時計|tokei|時間|time)/, (msg) ->
-    date = new Date
-    localSignature = 'jp'
-    message = "現在の時刻は#{strTime(date)}です"
-    image_url = "#{BASE_URL}/#{localSignature}/pc/#{hhmmTime(date)}.#{PICT_EXT}"
-    msg.send "#{message}\n#{image_url}"
+#  robot.hear /(美人|bijin|時計|tokei|時間|time)/, (msg) ->
+#    date = new Date
+#    localSignature = 'jp'
+#    message = "現在の時刻は#{strTime(date)}です"
+#    image_url = "#{BASE_URL}/#{localSignature}/pc/#{hhmmTime(date)}.#{PICT_EXT}"
+#    msg.send "#{message}\n#{image_url}"
