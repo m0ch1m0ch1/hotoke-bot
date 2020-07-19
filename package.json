@@ -1,6 +1,6 @@
 {
   "name": "hotoke-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "author": "Motomura Yohei <y.motomura0426@gmail.com>",
   "description": "A simple helpful robot for GEDATSU-Slack",
