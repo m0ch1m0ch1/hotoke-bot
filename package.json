@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "Motomura Yohei <y.motomura0426@gmail.com>",
-  "description": "A simple helpful robot for GEDATSU",
+  "description": "A simple helpful robot for GEDATSU-Slack",
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
