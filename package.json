@@ -17,7 +17,7 @@
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.8.0",
+    "hubot-slack": "^4.9.0",
     "jquery": "^3.5.1",
     "json": "^9.0.6",
     "require": "^2.4.20",
