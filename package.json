@@ -13,18 +13,17 @@
     "hubot-heroku-keepalive": "^1.0.3",
     "hubot-maps": "0.0.3",
     "hubot-pugme": "^0.1.1",
-    "hubot-redis-brain": "^1.0.0",
+    "hubot-redis-brain": "^0.0.3",
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.9.0",
     "jquery": "^3.5.1",
-    "json": "^9.0.6",
-    "require": "^2.4.20",
+    "json": "^11.0.0",
+    "require": "^0.4.9",
     "uglify-js": "^3.10.0"
   },
   "engines": {
     "node": "10.9.0"
-  },
-  "devDependencies": {}
+  }
 }
